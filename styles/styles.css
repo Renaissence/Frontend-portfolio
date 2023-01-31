@@ -140,4 +140,12 @@ section {
   font-size: 1.2rem;
   color: var(--color-grey-2);
   pointer-events: none;
-}/*# sourceMappingURL=styles.css.map */
+}
+
+/*Header-content*/
+.header-content {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+/*Independent components*//*# sourceMappingURL=styles.css.map */
